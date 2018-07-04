@@ -1,0 +1,28 @@
+2018-05-18 19:48:53,068 : [ERROR] -> __main__: This is a log from main at ERROR level
+2018-05-18 19:48:53,068 : [WARNING] -> __main__: This is a log from main at ERROR level
+2018-05-18 19:48:53,068 : [INFO] -> __main__: Entering Main
+2018-05-18 19:48:53,068 : [INFO] -> summer_pre_assign_package1.module1: Entering method f1
+2018-05-18 19:48:53,068 : [WARNING] -> summer_pre_assign_package1.module1: This is a log from f1 at WARNING level
+2018-05-18 19:48:53,068 : [ERROR] -> summer_pre_assign_package1.module1: This is a log from f1 at ERROR level
+2018-05-18 19:48:53,068 : [DEBUG] -> summer_pre_assign_package1.module1: Leaving method f1
+2018-05-18 19:48:53,068 : [INFO] -> summer_pre_assign_package1.module1: Entering method f2
+2018-05-18 19:48:53,068 : [WARNING] -> summer_pre_assign_package1.module1: This is a log from f2 at WARNING level
+2018-05-18 19:48:53,068 : [ERROR] -> summer_pre_assign_package1.module1: This is a log from f2 at ERROR level
+2018-05-18 19:48:53,068 : [DEBUG] -> summer_pre_assign_package1.module1: Leaving method f2
+2018-05-18 19:48:53,068 : [INFO] -> summer_pre_assign_package1.summer_pre_assign_package2.module2: Entering function f3
+2018-05-18 19:48:53,068 : [WARNING] -> summer_pre_assign_package1.summer_pre_assign_package2.module2: This cannot be done using function f3
+2018-05-18 19:48:53,068 : [ERROR] -> summer_pre_assign_package1.summer_pre_assign_package2.module2: Error occurred in function f3
+2018-05-18 19:48:53,068 : [DEBUG] -> summer_pre_assign_package1.summer_pre_assign_package2.module2: Leaving function f3
+2018-05-18 19:48:53,068 : [INFO] -> summer_pre_assign_package1.summer_pre_assign_package2.module2: Entering method f4
+2018-05-18 19:48:53,068 : [WARNING] -> summer_pre_assign_package1.summer_pre_assign_package2.module2: This is a log from f4 at WARNING level
+2018-05-18 19:48:53,068 : [ERROR] -> summer_pre_assign_package1.summer_pre_assign_package2.module2: This is a log from f4 at ERROR level
+2018-05-18 19:48:53,068 : [DEBUG] -> summer_pre_assign_package1.summer_pre_assign_package2.module2: Leaving method f4
+2018-05-18 19:48:53,068 : [INFO] -> summer_pre_assign_package1.module3: Entering method f5
+2018-05-18 19:48:53,068 : [WARNING] -> summer_pre_assign_package1.module3: This is a log from f5 at WARNING level
+2018-05-18 19:48:53,068 : [ERROR] -> summer_pre_assign_package1.module3: This is a log from f5 at ERROR level
+2018-05-18 19:48:53,068 : [DEBUG] -> summer_pre_assign_package1.module3: Leaving method f5
+2018-05-18 19:48:53,068 : [INFO] -> summer_pre_assign_package1.summer_pre_assign_package3.module4: Entering method f6
+2018-05-18 19:48:53,068 : [WARNING] -> summer_pre_assign_package1.summer_pre_assign_package3.module4: This is a log from f6 at WARNING level
+2018-05-18 19:48:53,068 : [ERROR] -> summer_pre_assign_package1.summer_pre_assign_package3.module4: This is a log from f6 at ERROR level
+2018-05-18 19:48:53,068 : [DEBUG] -> summer_pre_assign_package1.summer_pre_assign_package3.module4: Leaving method f6
+2018-05-18 19:48:53,083 : [ERROR] -> __main__: Exiting Main

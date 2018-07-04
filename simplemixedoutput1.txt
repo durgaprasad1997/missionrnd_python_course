@@ -1,0 +1,16 @@
+A : B 
+a : b 
+B : A 
+b : a 
+C : B 
+c : b 
+d : c 
+e : d 
+f : e 
+W : X 
+X : W 
+x : y 
+Y : X 
+y : x 
+Z : A
+z : y 

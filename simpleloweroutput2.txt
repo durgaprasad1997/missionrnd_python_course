@@ -1,0 +1,9 @@
+a : b ,c ,d 
+b : a ,c ,d 
+c : b ,d ,a 
+d : c ,e ,b 
+e : d ,f ,c 
+f : e ,d ,c 
+x : y ,f ,e 
+y : x ,f ,e 
+z : a ,b ,c

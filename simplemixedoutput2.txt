@@ -1,0 +1,16 @@
+A : B ,C ,W 
+a : b ,c ,d 
+B : A ,C ,W 
+b : a ,c ,d 
+C : B ,A ,W 
+c : b ,d ,a 
+d : c ,e ,b 
+e : d ,f ,c 
+f : e ,d ,c 
+W : X ,Y ,a 
+X : W ,Y ,a 
+x : y ,z ,f 
+Y : X ,W ,a 
+y : x ,z ,f 
+Z : A ,B ,C
+z : y ,x ,f 

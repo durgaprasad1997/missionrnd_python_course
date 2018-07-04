@@ -1,0 +1,27 @@
+def get_min_max_words(input):
+    """
+    returns the words with the least and maximum length.
+    Use min and max and pass another function as argument
+    """
+    amax="sv"
+    amin="vv"
+    min=10000
+    max=-1
+    i=0
+    for i in input:
+
+
+        l=len(i)
+
+        if(l>max):
+            amax=i
+            max=l
+        if(l<min):
+            amin=i
+            min=l
+
+
+
+    return (amin,amax)
+print(get_min_max_words(get_min_max_words(["fork", "engine", "fly"])))
+print(("fly", "engine") == get_min_max_words(["fork"]))
